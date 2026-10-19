@@ -59,7 +59,8 @@
   * 로드셀(HX711) 및 전류 센서(INA219) 연동
   * Advanced 버전 3D 모델 출력·조립 및 와이어-서보모터 연결 구조 구현
   * 모터 구동 및 안전 정지 기능 테스트, 하드웨어·소프트웨어 통합 테스트 진행
-<img width="2992" height="2992" alt="KakaoTalk_20261019_174306310" src="https://github.com/user-attachments/assets/5b1dddf5-cef7-49bd-91fe-471a8571a1b1" />
-<img width="1212" height="780" alt="KakaoTalk_20261019_172155729" src="https://github.com/user-attachments/assets/7403b060-d91b-4beb-9b8c-4e62723bfd4b" />
+<img width="2992" height="2992" alt="아두이노 모터 구동" src="https://github.com/user-attachments/assets/5b1dddf5-cef7-49bd-91fe-471a8571a1b1" />
+<img width="1212" height="780" alt="3D 모델링" src="https://github.com/user-attachments/assets/7403b060-d91b-4beb-9b8c-4e62723bfd4b" />
+<img width="2576" height="1932" alt="보조기 모터 연동 구상 사진" src="https://github.com/user-attachments/assets/f42a1d0a-ca65-4b31-a99f-8070131743b4" />
 https://github.com/user-attachments/assets/75e1f764-105d-4b8c-b50e-f0dbf507c85c
 
