@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/0a17e92f-9e67-4dbc-9d6a-cfc65eb3e126
+https://github.com/user-attachments/assets/75aef0e4-dc7f-4863-b819-50a6ce532870
+
 
 # 캡스톤 디자인 진행상황 보고 (2026.10.19)
 
