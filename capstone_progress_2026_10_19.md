@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/59b6747f-de95-4c68-8fd8-fca37f636be5
-
 # 캡스톤 디자인 진행상황 보고 (2026.10.19)
 
 * **과제명:** 능동형 손 재활 보조기 및 제어 시스템 개발
