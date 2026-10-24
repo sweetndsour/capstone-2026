@@ -111,9 +111,12 @@ https://github.com/user-attachments/assets/75aef0e4-dc7f-4863-b819-50a6ce532870
 | 가공 공구 | 커터칼, 가위, 컷팅자, 니퍼, 롱로우즈, 송곳, 사포(P220), 볼펜형 드라이버 |
 
 ## 8. 제어 코드
-* [`firmware/`](firmware/) 폴더에 PlatformIO 프로젝트(`platformio.ini`, `src/main.cpp`)를 올려두었습니다.
-* Wokwi에서 점검한 전체 제어 코드(재활 3단계, 유지 모드, 비상정지)입니다.
-* 코드 상단의 `#define SIMULATION 1`은 Wokwi(가상 손 모델)용 설정이며, 실물에서는 `0`으로 바꿔 사용합니다.
+* [`firmware/`](firmware/) : PlatformIO 프로젝트(`platformio.ini`, `src/main.cpp`) - 재활 3단계, 유지 모드, 비상정지 전체 제어 코드
+* [`wokwi/`](wokwi/) : Wokwi 프로젝트 파일(`sketch.ino`, `diagram.json`, `libraries.txt`)
+* 코드 상단 설정
+  * `#define SIMULATION 1` : Wokwi(가상 손 모델)용, 실물에서는 `0`
+  * `#define USE_CURRENT_SENSOR 0` : INA219는 예비 부품이라 비활성화, 사용 시 `1`
+* Wokwi 가변저항: `A0` = 갑자기 들어간 힘(0~1kg), `A1` = 손 뻣뻣함(0.1~1.0kg/cm)
 * 사용 라이브러리: `Servo`, `bogde/HX711`
 
 ## 9. 향후 진행 계획
