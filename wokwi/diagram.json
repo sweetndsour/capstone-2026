@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "author": "knuckle-bender",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-servo", "id": "servo1", "top": -160, "left": 320, "attrs": {} },
+    { "type": "wokwi-hx711", "id": "cell1", "top": 260, "left": 420, "attrs": { "type": "5kg" } },
+    { "type": "wokwi-pushbutton", "id": "btn1", "top": -157, "left": 67.2, "attrs": { "color": "red", "xray": "" } },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": 257.9, "left": -9.8, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot2", "top": 270, "left": 200, "attrs": {} }
+  ],
+  "connections": [
+    [ "servo1:PWM", "uno:9", "orange", [] ],
+    [ "servo1:V+", "uno:5V", "red", [] ],
+    [ "servo1:GND", "uno:GND.1", "black", [] ],
+    [ "cell1:DT", "uno:2", "green", [] ],
+    [ "cell1:SCK", "uno:3", "blue", [] ],
+    [ "cell1:VCC", "uno:5V", "red", [] ],
+    [ "cell1:GND", "uno:GND.2", "black", [] ],
+    [ "btn1:1.l", "uno:4", "yellow", [] ],
+    [ "btn1:2.l", "uno:GND.1", "black", [] ],
+    [ "pot1:SIG", "uno:A0", "violet", [] ],
+    [ "pot1:VCC", "uno:5V", "red", [] ],
+    [ "pot1:GND", "uno:GND.3", "black", [] ],
+    [ "pot2:SIG", "uno:A1", "cyan", [] ],
+    [ "pot2:VCC", "uno:5V", "red", [] ],
+    [ "pot2:GND", "uno:GND.3", "black", [] ]
+  ],
+  "dependencies": {}
+}
