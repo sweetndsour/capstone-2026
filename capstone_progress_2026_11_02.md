@@ -79,7 +79,7 @@
   * 재출력한 부품은 **11월 3일 수령 예정**입니다.
 
   * 추가) 11월 3일 수령한 부품
-<img width="420" height="330" alt="Image" src="https://github.com/user-attachments/assets/42b4a2fb-14e4-4556-bc56-b54726c71343" />
+<img width="420" height="330" alt="부품" src="https://github.com/user-attachments/assets/42b4a2fb-14e4-4556-bc56-b54726c71343" />
  
 
 * **출력 부품 가공 및 와이어 스풀 교체–모터 연결:**
@@ -88,12 +88,12 @@
   * 철사 연결을 위해 일부 구멍의 크기를 확장하는 추가 가공을 진행했습니다.
   * 기존에 병뚜껑으로 대체하여 사용하던 와이어 스풀을 3D 프린팅으로 제작한 부품으로 교체했습니다.
   * 제작한 스풀을 서보모터에 연결하여 조립 구조를 확인했습니다.
-<img width="420" height="330" alt="Image" src="https://github.com/user-attachments/assets/3143dd9a-a88a-4040-8e14-da174b194ebc" />
+<img width="420" height="330" alt="스풀교체" src="https://github.com/user-attachments/assets/3143dd9a-a88a-4040-8e14-da174b194ebc" />
     
 * **재활 보조기 1차 가조립:**
   * 후가공한 출력물과 기존에 보유한 재료를 활용하여 너클 형태의 임시 조립을 진행했습니다.
   * 부품의 배치와 연결 구조를 확인하고, 실제 조립 가능성을 검토했습니다.
-<img width="420" height="330" alt="가조립" src="https://github.com/user-attachments/assets/4afeed09-dacf-4c3b-8e8f-21fe4e65ffde" />
+<img width="420" height="330" alt="가조" src="https://github.com/user-attachments/assets/d58f7b50-ac2c-45d6-b8f8-b2cbe3006d4a" />
 
 ## 6. 다음 작업
 * **강태우:**
