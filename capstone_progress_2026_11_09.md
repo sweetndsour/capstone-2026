@@ -34,7 +34,9 @@ https://github.com/user-attachments/assets/23e6cb69-9066-4ad1-9069-de6e49549c1a
   * 줄을 당길 때 모터와 받침판이 흔들리거나 비틀리는지 확인하고 고정 방식을 보완할 예정입니다.
 <img width="400" height="330" alt="모터 2개와 좌우 견인 줄이 연결된 전체 조립 사진" src="https://github.com/user-attachments/assets/3adbf73d-8a01-4d15-a6d8-2a1c9c2b5d8a" />
 <img width="250" height="330" alt="모터·스풀·부목 연결부 측면 사진" src="https://github.com/user-attachments/assets/4a455028-5477-431c-a97a-d0112ea744bc" />
-https://github.com/user-attachments/assets/e4d8816e-a27a-4cac-a071-9fc58ed488d0
+
+https://github.com/user-attachments/assets/5b0ef531-3ca1-4620-acfd-dcfd45ca3e3c
+
 
 ## 2. HX711·로드셀 연결 및 모터 연동 (담당: 김한결)
 
@@ -68,7 +70,8 @@ https://github.com/user-attachments/assets/e4d8816e-a27a-4cac-a071-9fc58ed488d0
   * 원시값을 시험 기준으로 사용했으며, 정확한 힘 단위로의 보정과 실제 견인 장력을 일정하게 유지하는 제어는 추가 작업이 필요합니다.
 
 <img width="250" height="330" alt="아두이노–HX711–로드셀 연결 상태 " src="https://github.com/user-attachments/assets/65551d1e-37d2-426e-b2a5-779f395b3d9f" />
-https://github.com/user-attachments/assets/d565f3d4-9e48-4cd1-a6e5-de92978c39ce
+https://github.com/user-attachments/assets/a629605d-76fc-4cb3-ad7a-a0dfa1ccaa7d
+
 
 ## 3. 3D 프린팅 출력물 수령 및 기구부 조립 (담당: 정수아)
 
