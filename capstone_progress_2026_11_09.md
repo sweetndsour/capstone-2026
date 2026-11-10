@@ -70,6 +70,7 @@ https://github.com/user-attachments/assets/5b0ef531-3ca1-4620-acfd-dcfd45ca3e3c
   * 원시값을 시험 기준으로 사용했으며, 정확한 힘 단위로의 보정과 실제 견인 장력을 일정하게 유지하는 제어는 추가 작업이 필요합니다.
 
 <img width="250" height="330" alt="아두이노–HX711–로드셀 연결 상태 " src="https://github.com/user-attachments/assets/65551d1e-37d2-426e-b2a5-779f395b3d9f" />
+
 https://github.com/user-attachments/assets/a629605d-76fc-4cb3-ad7a-a0dfa1ccaa7d
 
 
