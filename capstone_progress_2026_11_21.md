@@ -98,25 +98,25 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 줄을 하나만 사용해 시험했습니다. 왼쪽 줄을 손바닥 쪽 원기둥(손잡이) 안으로 통과시켜 스풀에 연결하고, 왼쪽 손가락 판이 굽혀지는지 확인했습니다.
 
-https://github.com/user-attachments/assets/1667bf08-055d-4dc7-bf98-3f12d026b709
+https://github.com/user-attachments/assets/4796abd7-7d53-44c7-a47e-69024dae56e7
 
 **2차 시도 — 두 줄을 한 방향으로 연결**
 
 줄 두 개를 사용했습니다. 왼쪽 줄을 손바닥 원기둥 안으로 통과시켜 오른쪽 줄과 같이 움직이게 했지만, 힘이 한쪽으로만 작용해 오른쪽에만 약하게 힘이 들어갔습니다.
 
-https://github.com/user-attachments/assets/99aaaa1b-1bb9-4f32-a7ce-dab010e74cd6
+https://github.com/user-attachments/assets/d129fa9d-bdf9-4e1e-9721-729a8e46a909
 
 **3차 시도 — 양쪽 줄을 각각 스풀에 연결**
 
 한 방향으로는 힘이 고르게 전달되지 않아, 양쪽 줄을 각각 따로 가져와 스풀에 연결하는 방식으로 바꿨습니다.
 
-https://github.com/user-attachments/assets/ab9e66c0-7c54-4a52-b919-1da0a212fbf4
+https://github.com/user-attachments/assets/d52841c7-b4d2-48aa-b5b3-686c6ab55733
 
 **4차 시도 — 각도를 최대로 올려 확인**
 
 3차 방식에서 잘 움직이는 것을 확인하고, 서보 각도를 최대로 올려 동작을 확인했습니다.
 
-https://github.com/user-attachments/assets/2afcce4b-b8fe-4638-b8ce-adcac100453e
+https://github.com/user-attachments/assets/ad6dd24f-17b1-43ef-a2fd-240f6a5219ec
 
 | 문제 | 원인 | 조치 | 상태 |
 | :--- | :--- | :--- | :--- |
@@ -151,15 +151,15 @@ https://github.com/user-attachments/assets/2afcce4b-b8fe-4638-b8ce-adcac100453e
 
 **책상 끝에서 굽힘 시험**
 
-https://github.com/user-attachments/assets/71192410-5928-4177-bfb6-abe43eaa0c32
+https://github.com/user-attachments/assets/2e8ff94b-4551-47d4-8975-2b7e3b41f139
 
 **측면 구동** — 각도가 커질수록 손등판·손목대가 들리던 상태입니다.
 
-https://github.com/user-attachments/assets/88a2d310-11ec-4b4e-8213-6f5dadcf22ca
+https://github.com/user-attachments/assets/5f2c3392-43e0-48d5-ba28-fc0a3cbeb685
 
 **손으로 줄 당겨 확인** — 서보를 돌리기 전에 줄 경로가 맞는지 손으로 당겨 확인했습니다.
 
-https://github.com/user-attachments/assets/5f4153d6-d6ef-43f5-921c-d7f24b170a0f
+https://github.com/user-attachments/assets/00753cb3-c8a7-4369-ba05-c0b1d1ae43d4
 
 ### 줄을 더 감아야 할 때
 
@@ -187,15 +187,15 @@ https://github.com/user-attachments/assets/5f4153d6-d6ef-43f5-921c-d7f24b170a0f
 
 **최종 시연 (측면)**
 
-https://github.com/user-attachments/assets/59b845f9-dd13-4259-baf0-1b9ebf319a21
+https://github.com/user-attachments/assets/5b16b771-8179-4b76-91bd-9156d48b279c
 
 **최종 시연 (회로 포함)**
 
-https://github.com/user-attachments/assets/6826ea1a-4af1-41bf-91a8-61aff3dc2c6d
+https://github.com/user-attachments/assets/df527c42-6895-489e-8c33-90cf98a47339
 
 **위에서 본 구동**
 
-https://github.com/user-attachments/assets/d45505cc-47be-46c7-a143-d3e5f2c45b65
+https://github.com/user-attachments/assets/e94e60d5-7d6d-4562-b772-a7570752a314
 
 | 버튼 조작 | 동작 |
 | :--- | :--- |
