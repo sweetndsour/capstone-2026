@@ -192,6 +192,14 @@ https://github.com/user-attachments/assets/00753cb3-c8a7-4369-ba05-c0b1d1ae43d4
 * **폄 줄(하늘색):** 2단 스풀의 위칸에 고정하고, 손등판 아래로 통과시켜 손가락 판 앞쪽 가운데에 팽팽하게 연결했습니다. 서보가 0°로 돌아올 때 손가락이 잘 펴지도록 했습니다.
 * **빨간 고무줄:** 케이블타이로 묶어 손가락을 굽히거나 펼 때 움직이지 않도록 고정했습니다.
 
+<img width="224" height="330" alt="테이프식 후크(제한하중 약 350g)" src="https://github.com/user-attachments/assets/dcb09bbd-b9d9-450a-92c1-611cc7e8e3ef" />
+<img width="287" height="330" alt="손목 보호대 아래에 붙인 후크" src="https://github.com/user-attachments/assets/aa93874a-66b6-4153-b9ec-ee32b348eff6" />
+
+<img width="492" height="330" alt="굽힘 줄 경로(노란 선)" src="https://github.com/user-attachments/assets/4e00bd8d-2530-4dfd-88ee-dfd124bca3fc" />
+<img width="212" height="330" alt="폄 줄 경로(보라 선)" src="https://github.com/user-attachments/assets/aa4be9a0-4f49-488d-b7b9-48bc0ed2b920" />
+
+* 사진은 순서대로 테이프식 후크, 손목 보호대 아래에 붙인 후크, 굽힘 줄 경로(노란 선), 폄 줄 경로(보라 선)입니다.
+
 로드셀 없이 서보 각도만으로 제어하며([servo_buttonfinal.ino](firmware/servo_buttonfinal/servo_buttonfinal.ino)), 모든 조작은 버튼 하나(D4)로 합니다.
 
 **최종 시연 (측면)**
