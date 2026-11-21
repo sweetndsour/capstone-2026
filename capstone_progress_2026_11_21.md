@@ -10,18 +10,23 @@ Nov 21, 2026 · @태우
 
 - 작성: 강태우
 
-- 사용 부품: Arduino UNO 호환보드, MG996R 서보, HX711 + 2kg 로드셀, 택트 스위치, 5V 2A 어댑터, 3D 프린팅 덮개·2단 스풀(지름 3cm)
+- 사용 부품: Arduino UNO 호환보드, MG996R 서보, HX711 + 2kg 로드셀(시험용, 완성본 미사용), 택트 스위치, 5V 2A 어댑터, 3D 프린팅 덮개·2단 스풀(지름 3cm)
 
 ## 결과 사진 (11/21)
 
-| 측면 | 위에서 본 모습 |
-|---|---|
-| ![측면](images/2026_11_21/1.jpg) | ![위에서](images/2026_11_21/2.jpg) |
-| ![회로 포함 전체](images/2026_11_21/3.jpg) | ![회로 포함 측면](images/2026_11_21/5.jpg) |
+<img width="586" height="330" alt="측면" src="images/2026_11_21/1.jpg" />
+<img width="586" height="330" alt="위에서 본 모습" src="images/2026_11_21/2.jpg" />
+
+<img width="250" height="330" alt="회로 포함 전체" src="images/2026_11_21/3.jpg" />
+<img width="250" height="330" alt="회로 포함 측면" src="images/2026_11_21/5.jpg" />
+
+<img width="560" height="258" alt="앞에서 본 모습 (버튼 조작)" src="https://github.com/user-attachments/assets/709757ac-c371-422b-87b2-8eaf3ec6b5ed" />
+<img width="250" height="330" alt="회로 (선 묶음 정리)" src="https://github.com/user-attachments/assets/abb15b13-7b5e-451f-ae85-155914625fe9" />
 
 **작업 모습**
 
-<img src="images/2026_11_21/4.jpg" width="500">
+<img width="250" height="330" alt="작업 모습 1" src="images/2026_11_21/4.jpg" />
+<img width="250" height="330" alt="작업 모습 2" src="https://github.com/user-attachments/assets/f47b5993-b9ce-4d97-9537-61c66acc5f6e" />
 
 **실패 영상**
 
@@ -33,7 +38,7 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 | 날짜 | 진행 내용 | 결과 |
 |---|---|---|
-| 11/21 | 착용 상태 구동 영상 분석, 들림 대책(가이드 고리·벨크로) 검토, servo_test_3 작성(재활 0↔180°, 유지 3초, 버튼 토글), 컴퓨터 없이 구동하는 전원 방법 확인, 최종 코드(servo_buttonfinal) 완성 및 시연 영상 촬영, 손목 굽힘 구조 변경 검토(줄을 손목 축 아래로, 올리는 줄 추가) | 손가락 굽힘 확인. 손등판·손목대 들림 문제 남음 |
+| 11/21 | 착용 상태 구동 영상 분석, 들림 대책(가이드 고리·벨크로) 검토, servo_test_3 작성(재활 0↔180°, 유지 3초, 버튼 토글), 컴퓨터 없이 구동하는 전원 방법 확인, 최종 코드(servo_buttonfinal) 완성 및 시연 영상 촬영, 손목 굽힘 구조 변경 검토(줄을 손목 축 아래로, 올리는 줄 추가) | 버튼으로 굽힘·폄·반복 동작 확인. 손등판은 벨크로 스트랩으로 고정 |
 | 11/20 | 손을 편 상태에서 원하는 만큼 굽힐 때까지 줄 이동 거리 측정, 측정값으로 각도 재설정(rehab_control v7~v9) | 양쪽 약 0.7cm. 큰 스풀 불필요 |
 | 11/19 | 부목 배선표 기준 배선 점검·스위치 연결, Arduino IDE로 서보 단독 시험(mg996r_test), rehab_control 작성, 줄 경로 수정(양쪽 당김·2단 스풀·철사 끝 고리 통과), 지금까지 꽂은 선을 정리한 배선표 제작 | 서보·스위치 정상 동작. 굽힘 부족 원인 파악 |
 | 11/17 | 서보 시험 코드(servo_test) 작성: 시리얼 명령으로 각도 이동(a/d/숫자), x 정지, z 힘 풀기, 이동 속도 조절. x를 눌러도 서보가 안 멈추는 문제 발생 → 어댑터 DC−와 UNO GND 공통 연결 누락이 원인. 정지는 신호를 끊는 방식(detach) 대신 지금 각도에서 버티는 방식으로 수정. 180° 서보와 360° 서보 차이 정리 | GND 공통 연결 후 정지 정상. 서보 전원은 어댑터로 따로 공급 |
@@ -52,6 +57,16 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 | 택트 스위치 | 대각선 다리 → D4 / UNO GND (INPUT_PULLUP) |
 
 - 스케치 폴더 하나에 .ino 파일을 두 개 넣으면 redefinition 컴파일 에러가 난다. 폴더마다 .ino는 하나만 둔다.
+
+**전체 회로와 UNO·USB 연결부 (11/19)**
+
+<img width="250" height="330" alt="전체 회로 (11/19)" src="https://github.com/user-attachments/assets/155b9c45-383c-41b3-9e0f-3e2183d679b4" />
+<img width="250" height="330" alt="UNO·USB 연결부 (11/19)" src="https://github.com/user-attachments/assets/551b9736-7924-4211-ad45-442ae3061afe" />
+
+**HX711·로드셀 배선 (11/11, 완성본 미사용)**
+
+<img width="250" height="330" alt="HX711·로드셀 배선 1" src="https://github.com/user-attachments/assets/c2152fb9-dee9-4288-805f-d2d450dca841" />
+<img width="250" height="330" alt="HX711·로드셀 배선 2" src="https://github.com/user-attachments/assets/8ead68b9-63d3-4eb0-8788-ff27f1deaa11" />
 
 - 서보를 UNO 5V 핀에 직접 연결하는 방식은 쓰지 않기로 했다. USB 전원은 약 0.5A라 MG996R(순간 1~2A 이상)에 부족하다.
 
@@ -74,7 +89,7 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 - 완성본에서는 로드셀(HX711)을 쓰지 않고 서보 각도만으로 제어한다. 처음 계획했던 힘 상한 로직은 저장소 firmware/main.cpp에 있다.
 
-- servo_test_3의 180°는 줄 약 4.7cm를 감는다. 실측 필요값(0.7~1cm)보다 크므로, 손에 끼고 쓸 때는 각도를 낮춰야 한다.
+- 180°는 줄 약 4.7cm를 감는다. 실측 필요값(0.7~1cm)보다 크므로, 최종 시연은 180°로 했지만 오래 착용하기 전에는 각도를 다시 확인해야 한다.
 
 ## 기구부 문제와 해결
 
@@ -89,6 +104,27 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 | 360° 서보 사용 검토 | 줄을 더 감으려면 필요할 것 같았음 | 각도를 모르는 모터라 유지·비상정지가 부정확해져 미채택 | 종료 |
 | 큰 스풀 사용 검토 | 감기는 길이 부족 우려 | 실측 0.7cm라 현재 스풀(180° = 4.7cm)로 충분해 미채택 | 종료 |
 
+### 11/19 시험 과정
+
+<img width="250" height="330" alt="2단 스풀에 양쪽 줄 연결" src="https://github.com/user-attachments/assets/ee33357c-6d29-4da9-9201-1af7749ea1e8" />
+<img width="250" height="330" alt="스풀에 줄 묶기" src="https://github.com/user-attachments/assets/a280312e-3004-4c36-bbb6-d7e7a3beb413" />
+
+**영상: 1차 시도** — 줄 하나로 감았지만 줄이 처져 손이 굽혀지지 않음
+
+https://github.com/user-attachments/assets/1667bf08-055d-4dc7-bf98-3f12d026b709
+
+**영상: 한쪽 줄로 당김** — 덮개가 비틀리고 굽혀지지 않음
+
+https://github.com/user-attachments/assets/99aaaa1b-1bb9-4f32-a7ce-dab010e74cd6
+
+**영상: 양쪽 줄, 축에 묶음** — 줄을 손잡이(축)에 묶고 덮개 위를 가로질러 장치만 끌려옴
+
+https://github.com/user-attachments/assets/ab9e66c0-7c54-4a52-b919-1da0a212fbf4
+
+**영상: 줄 경로 수정 후** — 손가락 덮개 고리에 묶고 철사 끝 고리를 통과시킨 뒤 굽힘 확인
+
+https://github.com/user-attachments/assets/2afcce4b-b8fe-4638-b8ce-adcac100453e
+
 ## 손목 굽힘 구조 변경 검토 (11/21)
 
 팀 시연 영상을 분석해 보니, 고무줄을 뺀 상태에서는 손목이 굽혀지지 않았다. 줄이 손목 축 **위**를 지나고 있었기 때문이다.
@@ -98,6 +134,18 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 | 줄이 손목 축 위를 지나 손목이 안 굽음 | 지금 구조를 최대한 유지하면서 L자 브라켓으로 줄을 손목 축 **아래 약 3cm**로 통과시킴. 손이 책상에 닿지 않게 함 (책상 끝을 쓰기 어려우면 엄지가 위로 가는 자세로 대체) |
 | 아래로는 굽혀지지만, 줄을 풀어도 손이 다시 올라오지 않음 (줄은 당기기만 가능) | **올리는 줄**을 추가해 같은 MG996R의 2단 스풀 위 홈에 반대 방향으로 감음. 판 앞쪽 구멍을 거쳐 손등 덮개에 연결 (대안: 고무줄) |
 | 우리 모터는 회전 방향이 반대 | 내리는 줄(파랑)은 반시계, 올리는 줄(초록)은 시계 방향으로 감음. 또는 코드에서 `write(180 - angle)` |
+
+**영상: 책상 끝에서 굽힘 시험**
+
+https://github.com/user-attachments/assets/71192410-5928-4177-bfb6-abe43eaa0c32
+
+**영상: 측면 구동** — 각도가 커질수록 손등판·손목대가 들리던 상태
+
+https://github.com/user-attachments/assets/88a2d310-11ec-4b4e-8213-6f5dadcf22ca
+
+**영상: 손으로 줄 당겨 확인** — 서보를 돌리기 전에 줄 경로가 맞는지 손으로 당겨 확인
+
+https://github.com/user-attachments/assets/5f4153d6-d6ef-43f5-921c-d7f24b170a0f
 
 ### 줄을 더 감아야 할 때
 
@@ -122,6 +170,18 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 손목 보호대 위 포맥스 받침판에 MG996R 서보와 2단 스풀을 고정했다. 양쪽 줄이 손등판 철사 끝 고리를 거쳐 손가락 덮개를 당기고, 손등판은 벨크로 스트랩으로 손에 고정했다.
 
 처음에는 로드셀(HX711)로 줄 장력을 측정하려 했지만, 완성본에서는 로드셀을 쓰지 않고 서보 각도만으로 제어한다([servo_buttonfinal.ino](firmware/servo_buttonfinal/servo_buttonfinal.ino)). 모든 조작은 버튼 하나(D4)로 한다.
+
+**영상: 최종 시연 (측면)**
+
+https://github.com/user-attachments/assets/59b845f9-dd13-4259-baf0-1b9ebf319a21
+
+**영상: 최종 시연 (회로 포함)**
+
+https://github.com/user-attachments/assets/6826ea1a-4af1-41bf-91a8-61aff3dc2c6d
+
+**영상: 위에서 본 구동**
+
+https://github.com/user-attachments/assets/d45505cc-47be-46c7-a143-d3e5f2c45b65
 
 | 버튼 조작 | 동작 |
 |---|---|
@@ -148,11 +208,11 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 **결정 사항**
 
-- 최대로 감는 줄 길이는 1.5cm(57°)로 시작하고, 부족하면 2.0cm(76°)로 올린다. 줄 처짐·늘어남·패드 눌림 손실을 고려한 여유다.
+- 측정값 기준으로는 최대 줄 길이를 1.5cm(57°)로 계획했다(줄 처짐·늘어남·패드 눌림 여유 포함). 최종 시연 코드(servo_buttonfinal)는 0~180°를 사용했다.
 
 - 스풀 감는 방향은 위에서 봤을 때 반시계(손가락이 굽혀지는 방향)로 통일한다.
 
-- 양쪽 길이가 같아서 가운데 도르래 고리나 고무줄 보정은 쓰지 않는다.
+- 양쪽 길이가 같아서 좌우 길이를 맞추는 가운데 도르래 고리나 고무줄 보정은 쓰지 않는다.
 
 - 완성본에서는 로드셀을 사용하지 않고, 버튼 하나로 서보 각도만 제어한다.
 
