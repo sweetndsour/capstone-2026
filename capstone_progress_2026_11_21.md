@@ -14,19 +14,19 @@
 
 ## 결과 사진 (11/21)
 
-<img width="586" height="330" alt="측면" src="images/2026_11_21/1.jpg" />
-<img width="586" height="330" alt="위에서 본 모습" src="images/2026_11_21/2.jpg" />
+<img width="632" height="330" alt="측면" src="https://github.com/user-attachments/assets/629e5f40-ab56-4ec9-a9ab-33cbf0f9c7de" />
+<img width="293" height="330" alt="위에서 본 모습" src="https://github.com/user-attachments/assets/42ae543c-fd10-4b14-9660-a21ff76fffc3" />
 
-<img width="250" height="330" alt="회로 포함 전체" src="images/2026_11_21/3.jpg" />
-<img width="250" height="330" alt="회로 포함 측면" src="images/2026_11_21/5.jpg" />
+<img width="351" height="330" alt="회로 포함 전체" src="https://github.com/user-attachments/assets/c08727c2-9fea-430f-b8ce-5353fa729a44" />
+<img width="322" height="330" alt="회로 포함 측면" src="https://github.com/user-attachments/assets/e0598c26-79e0-47c0-b396-50a914f89301" />
 
-<img width="560" height="258" alt="앞에서 본 모습 (버튼 조작)" src="https://github.com/user-attachments/assets/709757ac-c371-422b-87b2-8eaf3ec6b5ed" />
-<img width="250" height="330" alt="회로 (선 묶음 정리)" src="https://github.com/user-attachments/assets/abb15b13-7b5e-451f-ae85-155914625fe9" />
+<img width="393" height="330" alt="앞에서 본 모습 (버튼 조작)" src="https://github.com/user-attachments/assets/279ede75-aad8-4f5d-ae42-784a8c019760" />
+<img width="411" height="330" alt="회로 (선 묶음 정리)" src="https://github.com/user-attachments/assets/7add8115-701b-4543-9266-ca7cd10abf33" />
 
 **작업 모습**
 
-<img width="250" height="330" alt="작업 모습 1" src="images/2026_11_21/4.jpg" />
-<img width="250" height="330" alt="작업 모습 2" src="https://github.com/user-attachments/assets/f47b5993-b9ce-4d97-9537-61c66acc5f6e" />
+<img width="304" height="330" alt="작업 모습 1" src="https://github.com/user-attachments/assets/3fe9290e-c9a7-47c6-87f8-7b5d706ede32" />
+<img width="339" height="330" alt="작업 모습 2" src="https://github.com/user-attachments/assets/b2eb8f57-a57d-4e44-bd6b-e52b70278951" />
 
 **실패 영상**
 
@@ -60,13 +60,13 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 **전체 회로와 UNO·USB 연결부 (11/19)**
 
-<img width="250" height="330" alt="전체 회로 (11/19)" src="https://github.com/user-attachments/assets/155b9c45-383c-41b3-9e0f-3e2183d679b4" />
-<img width="250" height="330" alt="UNO·USB 연결부 (11/19)" src="https://github.com/user-attachments/assets/551b9736-7924-4211-ad45-442ae3061afe" />
+<img width="362" height="330" alt="전체 회로 (11/19)" src="https://github.com/user-attachments/assets/783108ac-0897-4dd9-b6be-cd716b00c2a8" />
+<img width="264" height="330" alt="UNO·USB 연결부 (11/19)" src="https://github.com/user-attachments/assets/656bb79a-2b11-4a3c-9d2c-6bf40f262c20" />
 
 **HX711·로드셀 배선 (11/11, 완성본 미사용)**
 
-<img width="250" height="330" alt="HX711·로드셀 배선 1" src="https://github.com/user-attachments/assets/c2152fb9-dee9-4288-805f-d2d450dca841" />
-<img width="250" height="330" alt="HX711·로드셀 배선 2" src="https://github.com/user-attachments/assets/8ead68b9-63d3-4eb0-8788-ff27f1deaa11" />
+<img width="395" height="330" alt="HX711·로드셀 배선 1" src="https://github.com/user-attachments/assets/1ed3432a-2725-47a3-8573-7ecb0cd984b3" />
+<img width="371" height="330" alt="HX711·로드셀 배선 2" src="https://github.com/user-attachments/assets/f2cb70dd-1a6a-43ae-a9b5-765d64e89574" />
 
 - 서보를 UNO 5V 핀에 직접 연결하는 방식은 쓰지 않기로 했다. USB 전원은 약 0.5A라 MG996R(순간 1~2A 이상)에 부족하다.
 
@@ -106,8 +106,8 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 ### 11/19 시험 과정
 
-<img width="250" height="330" alt="2단 스풀에 양쪽 줄 연결" src="https://github.com/user-attachments/assets/ee33357c-6d29-4da9-9201-1af7749ea1e8" />
-<img width="250" height="330" alt="스풀에 줄 묶기" src="https://github.com/user-attachments/assets/a280312e-3004-4c36-bbb6-d7e7a3beb413" />
+<img width="263" height="330" alt="2단 스풀에 양쪽 줄 연결" src="https://github.com/user-attachments/assets/318ed761-bb5f-419c-a37f-490554835d1b" />
+<img width="289" height="330" alt="스풀에 줄 묶기" src="https://github.com/user-attachments/assets/34ffa4ed-5349-413e-bbfb-82f690305708" />
 
 **영상: 1차 시도** — 줄 하나로 감았지만 줄이 처져 손이 굽혀지지 않음
 
