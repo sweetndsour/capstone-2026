@@ -23,6 +23,12 @@ Nov 21, 2026 · @태우
 
 <img src="images/2026_11_21/4.jpg" width="500">
 
+**실패 영상**
+
+줄을 감아도 손가락이 제대로 당겨지지 않았던 시도.
+
+https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
+
 ## 날짜별 진행 내용
 
 | 날짜 | 진행 내용 | 결과 |
