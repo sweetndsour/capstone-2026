@@ -15,16 +15,15 @@
 * 따라서 모터가 감아야 할 줄 길이를 **3cm**로 정했습니다.
 * 반지름 1.5cm 스풀 기준으로 약 **115°** 회전하면 3cm를 감을 수 있어, 펌웨어에서 최대 회전각을 115°로 제한했습니다.
 
-<img width="330" height="366" alt="image" src="https://github.com/user-attachments/assets/4349404a-9c0a-42d3-8a0f-a85f48d52387" />
-
-<img width="330" height="366" alt="image" src="https://github.com/user-attachments/assets/e3af835c-f126-481d-bedf-9ed7373aafd6" />
+<img width="36%" alt="image" src="https://github.com/user-attachments/assets/4349404a-9c0a-42d3-8a0f-a85f48d52387" />
+<img width="36%" alt="image" src="https://github.com/user-attachments/assets/e3af835c-f126-481d-bedf-9ed7373aafd6" />
 
 ## 2. 부품 도착 전 가상 환경 사전 점검 (담당: 강태우)
 * 부품 도착 전, 실물 테스트를 바로 진행할 수 있도록 Wokwi에서 배선과 제어 코드를 미리 점검했습니다.
 * **핀 배치:** 서보 `D9`, HX711 `D2`(DT)·`D3`(SCK), 정지 버튼 `D4`
 * **가상 손 모델:** 가변저항 2개로 손가락 저항을 대신했습니다. 힘은 "손 뻣뻣함(0.1~1.0kg/cm) × 당긴 길이 + 갑자기 들어간 힘(0~1kg)"으로 계산했습니다.
 
-<img width="632" height="585" alt="image" src="https://github.com/user-attachments/assets/705a6c1b-148e-4345-b802-84deec2a1a2f" />
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/705a6c1b-148e-4345-b802-84deec2a1a2f" />
 
 * **제어 기준값 (임시값):**
 
@@ -66,7 +65,7 @@
   * 대여한 USB-B 케이블로 Arduino UNO R3 호환 보드와 노트북을 연결했습니다.
   * `Servo.h` 기반 제어 코드를 업로드하고 실행하여 **서보모터가 정상적으로 회전하는 것을 확인**했습니다.
 
-<img width="2992" height="2992" alt="아두이노 모터 구동" src="https://github.com/user-attachments/assets/5b1dddf5-cef7-49bd-91fe-471a8571a1b1" />
+<img width="380" alt="아두이노 모터 구동" src="https://github.com/user-attachments/assets/5b1dddf5-cef7-49bd-91fe-471a8571a1b1" />
 
 **서보모터 구동 테스트 영상**
 
@@ -83,7 +82,7 @@ https://github.com/user-attachments/assets/75aef0e4-dc7f-4863-b819-50a6ce532870
   * 줄을 손으로 당겨 손가락이 굽혀지는 방향이 맞는지 확인했습니다.
 * 이 과정에서 모터가 손등에 실려 무겁고 고정이 약한 문제가 확인되어, 최종 버전에서는 모터를 손목보호대에 고정하기로 했습니다.
 
-<img width="2576" height="1932" alt="보조기 모터 연동 구상 사진" src="https://github.com/user-attachments/assets/f42a1d0a-ca65-4b31-a99f-8070131743b4" />
+<img width="507" alt="보조기 모터 연동 구상 사진" src="https://github.com/user-attachments/assets/f42a1d0a-ca65-4b31-a99f-8070131743b4" />
 
 ## 6. 최종 버전 3D 프린팅 모델링 (담당: 정수아)
 * 1차 기구부 구조를 참고하여 최종 버전에 사용할 3D 프린팅 부품 6개를 설계하고, STL 파일로 정리했습니다.
@@ -97,9 +96,8 @@ https://github.com/user-attachments/assets/75aef0e4-dc7f-4863-b819-50a6ce532870
 
 * 손가락 덮개와 손등 덮개는 모서리의 지름 2mm 구멍에 은색 철사(1.6mm)를 끼워 연결할 예정입니다.
 
-<img width="1536" height="1024" alt="그림_3D부품치수도면" src="https://github.com/user-attachments/assets/7c52933b-940e-49dd-931c-ff5ce7bd86bc" />
-
-<img width="1212" height="780" alt="3D 모델링" src="https://github.com/user-attachments/assets/7403b060-d91b-4beb-9b8c-4e62723bfd4b" />
+<img width="47.6%" alt="그림_3D부품치수도면" src="https://github.com/user-attachments/assets/7c52933b-940e-49dd-931c-ff5ce7bd86bc" />
+<img width="49.3%" alt="3D 모델링" src="https://github.com/user-attachments/assets/7403b060-d91b-4beb-9b8c-4e62723bfd4b" />
 
 ## 7. 최종 버전 제작 재료 구매
 * 10월 23일에 최종 버전 조립에 필요한 재료 14종을 구매했습니다(62,300원).
