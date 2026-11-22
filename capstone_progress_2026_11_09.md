@@ -32,11 +32,11 @@ https://github.com/user-attachments/assets/23e6cb69-9066-4ad1-9069-de6e49549c1a
 * **추가 검토:**
   * 좌우 모터의 감김·풀림 방향과 줄 길이를 맞추는 작업이 필요합니다.
   * 줄을 당길 때 모터와 받침판이 흔들리거나 비틀리는지 확인하고 고정 방식을 보완할 예정입니다.
-<img width="400" height="330" alt="모터 2개와 좌우 견인 줄이 연결된 전체 조립 사진" src="https://github.com/user-attachments/assets/3adbf73d-8a01-4d15-a6d8-2a1c9c2b5d8a" />
-<img width="250" height="330" alt="모터·스풀·부목 연결부 측면 사진" src="https://github.com/user-attachments/assets/4a455028-5477-431c-a97a-d0112ea744bc" />
+
+<img width="52.9%" alt="모터 2개와 좌우 견인 줄이 연결된 전체 조립 사진" src="https://github.com/user-attachments/assets/3adbf73d-8a01-4d15-a6d8-2a1c9c2b5d8a" />
+<img width="34%" alt="모터·스풀·부목 연결부 측면 사진" src="https://github.com/user-attachments/assets/4a455028-5477-431c-a97a-d0112ea744bc" />
 
 https://github.com/user-attachments/assets/5b0ef531-3ca1-4620-acfd-dcfd45ca3e3c
-
 
 ## 2. HX711·로드셀 연결 및 모터 연동 (담당: 김한결)
 
@@ -69,10 +69,9 @@ https://github.com/user-attachments/assets/5b0ef531-3ca1-4620-acfd-dcfd45ca3e3c
   * 현재는 센서 입력과 모터 반응을 확인한 단계입니다.
   * 원시값을 시험 기준으로 사용했으며, 정확한 힘 단위로의 보정과 실제 견인 장력을 일정하게 유지하는 제어는 추가 작업이 필요합니다.
 
-<img width="250" height="330" alt="아두이노–HX711–로드셀 연결 상태 " src="https://github.com/user-attachments/assets/65551d1e-37d2-426e-b2a5-779f395b3d9f" />
+<img width="214" alt="아두이노–HX711–로드셀 연결 상태 " src="https://github.com/user-attachments/assets/65551d1e-37d2-426e-b2a5-779f395b3d9f" />
 
 https://github.com/user-attachments/assets/a629605d-76fc-4cb3-ad7a-a0dfa1ccaa7d
-
 
 ## 3. 3D 프린팅 출력물 수령 및 기구부 조립 (담당: 정수아)
 
@@ -93,10 +92,9 @@ https://github.com/user-attachments/assets/a629605d-76fc-4cb3-ad7a-a0dfa1ccaa7d
   * 출력 부품 간 배치와 연결 상태를 확인하고, 전체 시제품 형태를 구성했습니다.
   * 이후 구동 시험 결과에 따라 연결 구멍과 체결부 등 추가 보완이 필요한 부분을 확인할 예정입니다.
 
-<img width="250" height="330" alt="수령한 3D 프린팅 출력물" src="https://github.com/user-attachments/assets/a3b11a2b-cfcf-4d0f-a40c-d29074362bcd" />
-<img width="250" height="330" alt="3D 프린팅 스풀과 모터 체결 상태" src="https://github.com/user-attachments/assets/61fbe67b-90ef-4845-8c58-d9c4a187095d" />
-
-<img width="250" height="330" alt="출력 부품을 활용한 부목 가조립 상태" src="https://github.com/user-attachments/assets/4f7b33d6-1931-4412-86f6-b7961adcf8e6" />
+<img width="30%" alt="수령한 3D 프린팅 출력물" src="https://github.com/user-attachments/assets/a3b11a2b-cfcf-4d0f-a40c-d29074362bcd" />
+<img width="30%" alt="3D 프린팅 스풀과 모터 체결 상태" src="https://github.com/user-attachments/assets/61fbe67b-90ef-4845-8c58-d9c4a187095d" />
+<img width="30%" alt="출력 부품을 활용한 부목 가조립 상태" src="https://github.com/user-attachments/assets/4f7b33d6-1931-4412-86f6-b7961adcf8e6" />
 
 ## 4. 다음 작업
 
