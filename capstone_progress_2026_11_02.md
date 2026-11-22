@@ -23,10 +23,8 @@
 | 흰색 | A− |
 | 초록 | A+ |
 
-<img width="400" height="330" alt="남땜 장비사진" src="https://github.com/user-attachments/assets/cb2aa69f-f73b-4b4c-994c-77df5777ddb7" />
-
-<img width="440" height="330" alt="납땜1" src="https://github.com/user-attachments/assets/64be59fa-0b8d-42ef-a957-ef559d4e3080" />
-
+<img width="48.4%" alt="남땜 장비사진" src="https://github.com/user-attachments/assets/cb2aa69f-f73b-4b4c-994c-77df5777ddb7" />
+<img width="48.4%" alt="납땜1" src="https://github.com/user-attachments/assets/64be59fa-0b8d-42ef-a957-ef559d4e3080" />
 
 ## 2. 납땜 보조 및 로드셀 테스트 (담당: 김한결)
 * **납땜 보조 및 아두이노 연결:**
@@ -39,7 +37,7 @@
   * 라이브러리 설치와 코드 업로드는 완료했지만, 하중 변화에 따른 센서 반응과 정확한 무게 측정은 추가 확인이 필요합니다.
   * 연결 불안정의 원인이 USB 케이블인지 여부도 교체 테스트로 확인할 예정입니다.
 
-<img width="1859" height="926" alt="코드 사진" src="https://github.com/user-attachments/assets/6c4112cb-01d5-4aba-8bee-12b4632739aa" />
+<img width="700" alt="코드 사진" src="https://github.com/user-attachments/assets/6c4112cb-01d5-4aba-8bee-12b4632739aa" />
 
 ## 3. 손목 고정용 서보 받침판 제작 (담당: 강태우)
 * **1차 받침판:**
@@ -52,8 +50,8 @@
   * 받침판 크기를 키우고, 고정 구멍 수를 **8개에서 4개로 줄여** 가장자리에서 충분히 떨어진 위치에 다시 뚫었습니다.
   * **보완한 받침판을 케이블타이로 보호밴드에 고정**했습니다.
     
-<img width="300" height="330" alt="1차 받침판을 보호밴드에 올린 사진" src="https://github.com/user-attachments/assets/93483223-5a0e-4f9e-b9c4-0ba9861889dc" />
-<img width="420" height="330" alt="보완한 받침판과 고정 구멍 4곳" src="https://github.com/user-attachments/assets/27a3ea02-db0f-493e-b08b-a703ea97dfc5" />
+<img width="29.7%" alt="1차 받침판을 보호밴드에 올린 사진" src="https://github.com/user-attachments/assets/93483223-5a0e-4f9e-b9c4-0ba9861889dc" />
+<img width="42.2%" alt="보완한 받침판과 고정 구멍 4곳" src="https://github.com/user-attachments/assets/27a3ea02-db0f-493e-b08b-a703ea97dfc5" />
 
 ## 4. 서보 배치 시안 비교 (담당: 강태우)
 * 받침판에 서보를 올려 두 가지 배치를 비교했습니다.
@@ -65,8 +63,9 @@
 | **서보 2개를 눕힌 배치** | 높이가 낮아 안정적이고, 엄지 쪽·새끼 쪽 줄을 각각 당길 수 있어 당김력도 커집니다. 판 밖으로 나온 스풀의 손목 간섭 여부와 고정 안정성은 추가 확인이 필요합니다. |
 
 * 최종 배치는 실제 구동 시 흔들림과 손목 간섭 여부를 확인한 뒤 결정할 예정입니다.
-<img width="420" height="330" alt="모터1개일 때" src="https://github.com/user-attachments/assets/f4a4bead-d3c8-4a43-97d0-41468f5a3bca" />
-<img width="420" height="330" alt="모터 2개일 때" src="https://github.com/user-attachments/assets/1afea882-39e7-4426-bac9-3b0f183ce7b2" />
+
+<img width="45.2%" alt="모터1개일 때" src="https://github.com/user-attachments/assets/f4a4bead-d3c8-4a43-97d0-41468f5a3bca" />
+<img width="51.7%" alt="모터 2개일 때" src="https://github.com/user-attachments/assets/1afea882-39e7-4426-bac9-3b0f183ce7b2" />
 
 *(좌) 서보 모터 1개 세운 배치  / (우) 서보 모터 2개 눕힌 배치*
 
@@ -79,7 +78,9 @@
   * 재출력한 부품은 **11월 3일 수령 예정**입니다.
 
   * 추가) 11월 3일 수령한 부품
-<img width="420" height="330" alt="부품" src="https://github.com/user-attachments/assets/42b4a2fb-14e4-4556-bc56-b54726c71343" />
+
+<img width="507" alt="부품" src="https://github.com/user-attachments/assets/42b4a2fb-14e4-4556-bc56-b54726c71343" />
+
  
 
 * **출력 부품 가공 및 와이어 스풀 교체–모터 연결:**
@@ -88,12 +89,15 @@
   * 철사 연결을 위해 일부 구멍의 크기를 확장하는 추가 가공을 진행했습니다.
   * 기존에 병뚜껑으로 대체하여 사용하던 와이어 스풀을 3D 프린팅으로 제작한 부품으로 교체했습니다.
   * 제작한 스풀을 서보모터에 연결하여 조립 구조를 확인했습니다.
-<img width="420" height="330" alt="스풀교체" src="https://github.com/user-attachments/assets/3143dd9a-a88a-4040-8e14-da174b194ebc" />
+
+<img width="285" alt="스풀교체" src="https://github.com/user-attachments/assets/3143dd9a-a88a-4040-8e14-da174b194ebc" />
+
     
 * **재활 보조기 1차 가조립:**
   * 후가공한 출력물과 기존에 보유한 재료를 활용하여 너클 형태의 임시 조립을 진행했습니다.
   * 부품의 배치와 연결 구조를 확인하고, 실제 조립 가능성을 검토했습니다.
-<img width="420" height="330" alt="가조" src="https://github.com/user-attachments/assets/d58f7b50-ac2c-45d6-b8f8-b2cbe3006d4a" />
+
+<img width="409" alt="가조" src="https://github.com/user-attachments/assets/d58f7b50-ac2c-45d6-b8f8-b2cbe3006d4a" />
 
 ## 6. 다음 작업
 * **강태우:**
