@@ -22,19 +22,19 @@
 
 ## 2. 결과 사진 (11/21, 담당: 강태우·김한결·정수아)
 
-<img width="632" height="330" alt="측면" src="https://github.com/user-attachments/assets/629e5f40-ab56-4ec9-a9ab-33cbf0f9c7de" />
-<img width="293" height="330" alt="위에서 본 모습" src="https://github.com/user-attachments/assets/42ae543c-fd10-4b14-9660-a21ff76fffc3" />
+<img width="66.2%" alt="측면" src="https://github.com/user-attachments/assets/629e5f40-ab56-4ec9-a9ab-33cbf0f9c7de" />
+<img width="30.7%" alt="위에서 본 모습" src="https://github.com/user-attachments/assets/42ae543c-fd10-4b14-9660-a21ff76fffc3" />
 
-<img width="351" height="330" alt="회로 포함 전체" src="https://github.com/user-attachments/assets/c08727c2-9fea-430f-b8ce-5353fa729a44" />
-<img width="322" height="330" alt="회로 포함 측면" src="https://github.com/user-attachments/assets/e0598c26-79e0-47c0-b396-50a914f89301" />
+<img width="42.7%" alt="회로 포함 전체" src="https://github.com/user-attachments/assets/c08727c2-9fea-430f-b8ce-5353fa729a44" />
+<img width="39.2%" alt="회로 포함 측면" src="https://github.com/user-attachments/assets/e0598c26-79e0-47c0-b396-50a914f89301" />
 
-<img width="393" height="330" alt="앞에서 본 모습 (버튼 조작)" src="https://github.com/user-attachments/assets/279ede75-aad8-4f5d-ae42-784a8c019760" />
-<img width="411" height="330" alt="회로 (선 묶음 정리)" src="https://github.com/user-attachments/assets/7add8115-701b-4543-9266-ca7cd10abf33" />
+<img width="47.4%" alt="앞에서 본 모습 (버튼 조작)" src="https://github.com/user-attachments/assets/279ede75-aad8-4f5d-ae42-784a8c019760" />
+<img width="49.5%" alt="회로 (선 묶음 정리)" src="https://github.com/user-attachments/assets/7add8115-701b-4543-9266-ca7cd10abf33" />
 
 **작업 모습**
 
-<img width="304" height="330" alt="작업 모습 1" src="https://github.com/user-attachments/assets/3fe9290e-c9a7-47c6-87f8-7b5d706ede32" />
-<img width="339" height="330" alt="작업 모습 2" src="https://github.com/user-attachments/assets/b2eb8f57-a57d-4e44-bd6b-e52b70278951" />
+<img width="36.8%" alt="작업 모습 1" src="https://github.com/user-attachments/assets/3fe9290e-c9a7-47c6-87f8-7b5d706ede32" />
+<img width="41.1%" alt="작업 모습 2" src="https://github.com/user-attachments/assets/b2eb8f57-a57d-4e44-bd6b-e52b70278951" />
 
 **실패 영상**
 
@@ -61,13 +61,13 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 **전체 회로와 UNO·USB 연결부 (11/19)**
 
-<img width="362" height="330" alt="전체 회로 (11/19)" src="https://github.com/user-attachments/assets/783108ac-0897-4dd9-b6be-cd716b00c2a8" />
-<img width="264" height="330" alt="UNO·USB 연결부 (11/19)" src="https://github.com/user-attachments/assets/656bb79a-2b11-4a3c-9d2c-6bf40f262c20" />
+<img width="43.9%" alt="전체 회로 (11/19)" src="https://github.com/user-attachments/assets/783108ac-0897-4dd9-b6be-cd716b00c2a8" />
+<img width="32%" alt="UNO·USB 연결부 (11/19)" src="https://github.com/user-attachments/assets/656bb79a-2b11-4a3c-9d2c-6bf40f262c20" />
 
 **HX711·로드셀 배선 (11/11, 완성본 미사용)**
 
-<img width="395" height="330" alt="HX711·로드셀 배선 1" src="https://github.com/user-attachments/assets/1ed3432a-2725-47a3-8573-7ecb0cd984b3" />
-<img width="371" height="330" alt="HX711·로드셀 배선 2" src="https://github.com/user-attachments/assets/f2cb70dd-1a6a-43ae-a9b5-765d64e89574" />
+<img width="47.9%" alt="HX711·로드셀 배선 1" src="https://github.com/user-attachments/assets/1ed3432a-2725-47a3-8573-7ecb0cd984b3" />
+<img width="45%" alt="HX711·로드셀 배선 2" src="https://github.com/user-attachments/assets/f2cb70dd-1a6a-43ae-a9b5-765d64e89574" />
 
 ## 4. 제어 코드 변경 이력 (11/17 ~ 11/21)
 
@@ -92,8 +92,8 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 서보가 돌아도 손가락 판이 잘 굽혀지지 않던 원인은 모터가 아니라 줄을 거는 위치와 방향이었습니다. 줄 거는 방식을 네 번 바꿔 시험했고, 양쪽 줄을 각각 스풀에 연결한 뒤 굽힘을 확인했습니다.
 
-<img width="263" height="330" alt="2단 스풀에 양쪽 줄 연결" src="https://github.com/user-attachments/assets/318ed761-bb5f-419c-a37f-490554835d1b" />
-<img width="289" height="330" alt="스풀에 줄 묶기" src="https://github.com/user-attachments/assets/34ffa4ed-5349-413e-bbfb-82f690305708" />
+<img width="31.9%" alt="2단 스풀에 양쪽 줄 연결" src="https://github.com/user-attachments/assets/318ed761-bb5f-419c-a37f-490554835d1b" />
+<img width="35%" alt="스풀에 줄 묶기" src="https://github.com/user-attachments/assets/34ffa4ed-5349-413e-bbfb-82f690305708" />
 
 **1차 시도 — 줄 하나로 시험**
 
@@ -194,18 +194,18 @@ https://github.com/user-attachments/assets/00753cb3-c8a7-4369-ba05-c0b1d1ae43d4
 
 **후크 적용 전 시안 (팀원 작성)**
 
-<img width="587" height="330" alt="후크 적용 전 시안: 올리는 줄 추가" src="https://github.com/user-attachments/assets/ee11e254-b51d-4d2f-a245-b984391c1836" />
+<img width="676" alt="후크 적용 전 시안: 올리는 줄 추가" src="https://github.com/user-attachments/assets/ee11e254-b51d-4d2f-a245-b984391c1836" />
 
 * 후크를 사기 전에 팀원이 만든 시안입니다. 파랑은 내리는 줄(굽힘), 초록은 새로 추가하는 올리는 줄(폄)이며, 2단 스풀의 위 홈과 아래 홈에 서로 반대로 감는 구조입니다.
 * 시안은 손목을 굽히는 방식이었고, 최종 버전은 손가락을 굽혀 손등 피부를 늘리는 것을 목표로 바꿔 후크와 줄 위치를 아래 사진처럼 적용했습니다.
 
 **최종 적용 모습**
 
-<img width="224" height="330" alt="테이프식 후크(제한하중 약 350g)" src="https://github.com/user-attachments/assets/dcb09bbd-b9d9-450a-92c1-611cc7e8e3ef" />
-<img width="287" height="330" alt="손목 보호대 아래에 붙인 후크" src="https://github.com/user-attachments/assets/aa93874a-66b6-4153-b9ec-ee32b348eff6" />
+<img width="27.2%" alt="테이프식 후크(제한하중 약 350g)" src="https://github.com/user-attachments/assets/dcb09bbd-b9d9-450a-92c1-611cc7e8e3ef" />
+<img width="34.7%" alt="손목 보호대 아래에 붙인 후크" src="https://github.com/user-attachments/assets/aa93874a-66b6-4153-b9ec-ee32b348eff6" />
 
-<img width="492" height="330" alt="굽힘 줄 경로(노란 선)" src="https://github.com/user-attachments/assets/4e00bd8d-2530-4dfd-88ee-dfd124bca3fc" />
-<img width="212" height="330" alt="폄 줄 경로(보라색 가이드 선)" src="https://github.com/user-attachments/assets/aa4be9a0-4f49-488d-b7b9-48bc0ed2b920" />
+<img width="59.4%" alt="굽힘 줄 경로(노란 선)" src="https://github.com/user-attachments/assets/4e00bd8d-2530-4dfd-88ee-dfd124bca3fc" />
+<img width="25.5%" alt="폄 줄 경로(보라색 가이드 선)" src="https://github.com/user-attachments/assets/aa4be9a0-4f49-488d-b7b9-48bc0ed2b920" />
 
 * 사진은 순서대로 테이프식 후크, 손목 보호대 아래에 붙인 후크, 굽힘 줄 경로(노란 선), 폄 줄 경로(보라색 가이드 선, 실제 줄은 하늘색)입니다.
 
