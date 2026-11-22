@@ -192,13 +192,22 @@ https://github.com/user-attachments/assets/00753cb3-c8a7-4369-ba05-c0b1d1ae43d4
 * **폄 줄(하늘색):** 2단 스풀의 위칸에 고정하고, 손등판 아래로 통과시켜 손가락 판 앞쪽 가운데에 팽팽하게 연결했습니다. 서보가 0°로 돌아올 때 손가락이 잘 펴지도록 했습니다.
 * **빨간 고무줄:** 케이블타이로 묶어 손가락을 굽히거나 펼 때 움직이지 않도록 고정했습니다.
 
+**후크 적용 전 시안 (팀원 작성)**
+
+<img width="587" height="330" alt="후크 적용 전 시안: 올리는 줄 추가" src="https://github.com/user-attachments/assets/ee11e254-b51d-4d2f-a245-b984391c1836" />
+
+* 후크를 사기 전에 팀원이 만든 시안입니다. 파랑은 내리는 줄(굽힘), 초록은 새로 추가하는 올리는 줄(폄)이며, 2단 스풀의 위 홈과 아래 홈에 서로 반대로 감는 구조입니다.
+* 시안은 손목을 굽히는 방식이었고, 최종 버전은 손가락을 굽혀 손등 피부를 늘리는 것을 목표로 바꿔 후크와 줄 위치를 아래 사진처럼 적용했습니다.
+
+**최종 적용 모습**
+
 <img width="224" height="330" alt="테이프식 후크(제한하중 약 350g)" src="https://github.com/user-attachments/assets/dcb09bbd-b9d9-450a-92c1-611cc7e8e3ef" />
 <img width="287" height="330" alt="손목 보호대 아래에 붙인 후크" src="https://github.com/user-attachments/assets/aa93874a-66b6-4153-b9ec-ee32b348eff6" />
 
 <img width="492" height="330" alt="굽힘 줄 경로(노란 선)" src="https://github.com/user-attachments/assets/4e00bd8d-2530-4dfd-88ee-dfd124bca3fc" />
-<img width="212" height="330" alt="폄 줄 경로(보라 선)" src="https://github.com/user-attachments/assets/aa4be9a0-4f49-488d-b7b9-48bc0ed2b920" />
+<img width="212" height="330" alt="폄 줄 경로(보라색 가이드 선)" src="https://github.com/user-attachments/assets/aa4be9a0-4f49-488d-b7b9-48bc0ed2b920" />
 
-* 사진은 순서대로 테이프식 후크, 손목 보호대 아래에 붙인 후크, 굽힘 줄 경로(노란 선), 폄 줄 경로(보라 선)입니다.
+* 사진은 순서대로 테이프식 후크, 손목 보호대 아래에 붙인 후크, 굽힘 줄 경로(노란 선), 폄 줄 경로(보라색 가이드 선, 실제 줄은 하늘색)입니다.
 
 로드셀 없이 서보 각도만으로 제어하며([servo_buttonfinal.ino](firmware/servo_buttonfinal/servo_buttonfinal.ino)), 모든 조작은 버튼 하나(D4)로 합니다.
 
