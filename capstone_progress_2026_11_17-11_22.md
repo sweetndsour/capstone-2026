@@ -92,6 +92,12 @@ https://github.com/user-attachments/assets/4e45728b-27c3-40e1-9a68-d4433e37a9a6
 
 서보가 돌아도 손가락 판이 잘 굽혀지지 않던 원인은 모터가 아니라 줄을 거는 위치와 방향이었습니다. 줄 거는 방식을 네 번 바꿔 시험했고, 양쪽 줄을 각각 스풀에 연결한 뒤 굽힘을 확인했습니다.
 
+**사전 작업 — 덮개 연결부 굽힘 확인 (11/14, 담당: 정수아)**
+
+3D 프린팅한 손가락 덮개와 손등 덮개를 연결한 뒤, 손가락 덮개를 눌러 연결 부분이 굽혀지는지 확인했습니다.
+
+https://github.com/user-attachments/assets/8963745f-5d96-46f7-b99d-a693ef1f20a4
+
 <img width="31.9%" alt="2단 스풀에 양쪽 줄 연결" src="https://github.com/user-attachments/assets/318ed761-bb5f-419c-a37f-490554835d1b" />
 <img width="35%" alt="스풀에 줄 묶기" src="https://github.com/user-attachments/assets/34ffa4ed-5349-413e-bbfb-82f690305708" />
 
