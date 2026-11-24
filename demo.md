@@ -4,7 +4,7 @@
 * **팀:** 새콤달콤 (강태우, 김한결, 정수아) · 지도교수 최가영
 * **저장소:** [sweetndsour/capstone-2026](https://github.com/sweetndsour/capstone-2026)
 
-## 최종 시연 영상 (2분 52초)
+## 최종 시연 영상 (2분 51초)
 
 https://github.com/user-attachments/assets/db87fce4-3c1f-4469-b256-ff0e7a3c73d6
 
